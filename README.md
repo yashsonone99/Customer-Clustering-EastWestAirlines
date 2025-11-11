@@ -21,16 +21,16 @@ To perform **customer segmentation** and discover natural groupings in the EastW
 
 ## 🧩 Project Workflow
 
-### 1️⃣ Data Loading & Cleaning
+### 1️. Data Loading & Cleaning
 - Loaded data from `EastWestAirlines.xlsx`
 - Removed irrelevant columns like `ID#`
 - Handled missing values using median imputation
 - Treated outliers using **IQR method** to improve model stability
 
-### 2️⃣ Feature Scaling
+### 2️. Feature Scaling
 Standardized all numerical features using **StandardScaler** for uniform scaling before clustering.
 
-### 3️⃣ Exploratory Data Analysis (EDA)
+### 3️. Exploratory Data Analysis (EDA)
 - Statistical summary and data overview  
 - Correlation heatmap  
 - Histograms of customer attributes  
@@ -97,5 +97,3 @@ Standardized all numerical features using **StandardScaler** for uniform scaling
 - Build an **interactive dashboard** for cluster exploration  
 
 ---
-
-## 📁 Folder Structure
