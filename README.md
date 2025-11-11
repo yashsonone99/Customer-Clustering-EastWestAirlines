@@ -1,4 +1,4 @@
-# ✈️ Customer Segmentation — EastWest Airlines Clustering Project
+# ✈️ Customer Segmentation : EastWest Airlines Clustering Project
 
 This project focuses on **unsupervised learning techniques** to segment EastWest Airlines customers based on their flight behavior and loyalty metrics.  
 We apply **K-Means, Hierarchical, and DBSCAN clustering** to uncover hidden customer groups that can help the airline design better loyalty programs and marketing strategies.
